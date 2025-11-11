@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2025-10-21T00:34:22.214Z",
       "id": 5
+    },
+    {
+      "description": "drone",
+      "price": 160000,
+      "category": "investimento",
+      "type": "outcome",
+      "createdAt": "2025-11-09T21:51:31.243Z",
+      "id": 6
     }
   ]
 }
